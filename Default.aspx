@@ -36,6 +36,7 @@
     </div>
         <p>
             <asp:Label ID="lblDisplayNet" runat="server" Text="Employee Net Pay:" Visible="False"></asp:Label>
+            <asp:Label ID="lblnetpay" runat="server"></asp:Label>
         </p>
     </form>
 </body>
