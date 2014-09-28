@@ -19,7 +19,7 @@ Partial Class _Default
         tbwage.Text = String.Empty
 
         ' disable reset button
-        btnReset.Enabled = False
+        'btnReset.Enabled = False
         'hide net pay label
         lblDisplayNet.Visible = False
         lblnetpay.Visible = False
