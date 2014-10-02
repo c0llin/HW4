@@ -101,6 +101,7 @@ Partial Class _Default
             tbPostDeduction.Enabled = False
             tbwage.Enabled = False
         Else
+            MsgBox("Error: Please enter vaild information")
 
         End If
 
